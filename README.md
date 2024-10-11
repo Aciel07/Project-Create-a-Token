@@ -1,7 +1,7 @@
 # Project-Create-a-Token
 
 ## Description
-This Solidity project implements a simple token system called **Axiel** with the symbol **AXE**. The token contract includes basic functionality for minting and burning tokens, while keeping track of token balances and total supply. 
+This Solidity project implements a simple token system. The token contract includes basic functionality for minting and burning tokens, while keeping track of token balances and total supply. 
 
 ### Key Features:
 - **Token Information**: The contract publicly stores details about the token, abbreviation, and the total supply of tokens.
